@@ -49,6 +49,6 @@ app.post("/edittask", (req, res) => {
 
 })
 
-app.listen(3000,"10.20.9.47", () => {
+app.listen(3000, () => {
     console.log("Server Started");
 })
